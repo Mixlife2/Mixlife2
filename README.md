@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [WeHook](www.turboweb.com.ar)
 
-- 🌱 I’m currently learning **Back-end in Coderhouse**
+- 🌱 I’m currently learning **Java in Oracle**
 
-- 💬 Ask me about **react,javascript**
+- 💬 Ask me about **javascript,solidity,etc**
 
 - 📫 How to reach me **eddykratochvil@gmail.com**
 
